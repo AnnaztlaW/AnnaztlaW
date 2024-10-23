@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🌸 Anna Waltz 🌸
+she/her
+### Contact Information
+Insta: AnnaztlaW <br />
+Discord: waltzanna <br />
+<br />
+Kent State university working my way towards a degree in Computer Science with a concentration in Data Engineering. 
+
+
+
 
 <!--
 **AnnaztlaW/AnnaztlaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
