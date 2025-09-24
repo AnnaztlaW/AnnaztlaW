@@ -4,6 +4,8 @@ she/her
 Insta: AnnaztlaW <br />
 Discord: waltzanna <br />
 Personal Website: https://annaztlaw.github.io/Personal-Website/ <br />
- 
 <br />
 Kent State university working my way towards a degree in Computer Science with a concentration in Data Engineering and Cybersecurity. 
+<br />
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaztlaw&layout=compact)
